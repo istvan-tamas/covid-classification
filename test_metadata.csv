@@ -1,3 +1,4 @@
+patient id,source,country,sex,age,finding,verified finding,slice selection,view,modality
 CP_0,CNCB,China,,,Pneumonia,Yes,Expert,Axial,CT
 CP_1070,CNCB,China,,,Pneumonia,Yes,Expert,Axial,CT
 CP_1091,CNCB,China,,,Pneumonia,Yes,Expert,Axial,CT

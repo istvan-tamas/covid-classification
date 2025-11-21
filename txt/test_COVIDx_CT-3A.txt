@@ -1,3 +1,4 @@
+fname cls xmin ymin xmax ymax
 NCP_341_1834_0022.png 2 0 130 512 429
 NCP_341_1834_0023.png 2 0 130 512 429
 NCP_341_1834_0024.png 2 0 130 512 429

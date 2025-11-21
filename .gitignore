@@ -1,2 +1,5 @@
 *.jpg
 *.hdf5
+images/
+.vscode
+.ipynb_checkpoints
